@@ -3,6 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>&raquo; <?php echo $config['site_title']; ?></title>
+<link rel="stylesheet" type="text/css" media="screen" href="templates/style.css"/>
 </head>
 <body>
 
