@@ -1,9 +1,5 @@
 <?php
-/**
- * Configuration
- */
-$config = '';
-$config['site_title'] = 'Develop The Box';
+include('site_config');
 /*
  * Database Config
  */
