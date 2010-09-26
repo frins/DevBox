@@ -1,2 +1,2 @@
 <?php
-include(INC_PATH.'parse_twitter.php');
+//include(INC_PATH.'gettext.php');

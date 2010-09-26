@@ -1,11 +1,11 @@
 <?php
-include('site_config');
+include('site_config.php');
 /*
  * Database Config
  */
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
-define('DB_PASSWD', 'root');
+define('DB_PASSWD', 'francesc03bruguera12moriscot1996');
 define('DB_TABLE', 'devbox');
 
 $link = mysql_connect(DB_HOST, DB_USER, DB_PASSWD)
